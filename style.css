@@ -3,8 +3,13 @@ body {
 }
 
 /* logo  */
+.bg-body-tertiary {
+    background-color: white !important;
+}
+
 .logo-main-menu {
     margin-top: 20px;
+
 }
 
 /* end of logo  */
